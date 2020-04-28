@@ -1,4 +1,4 @@
-# Fórum do HXL-CPLP
+# Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa
 
 > Fórum do Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa. Disponível em <https://github.com/HXL-CPLP/forum/issues>.
 
@@ -12,11 +12,11 @@
 
 <!-- TOC -->
 
-- [Fórum do HXL-CPLP](#fórum-do-hxl-cplp)
+- [Grupo de Usuários do Padrão HXL da Comunidade dos Países de Língua Portuguesa](#grupo-de-usuários-do-padrão-hxl-da-comunidade-dos-países-de-língua-portuguesa)
     - [Informações rápidas](#informações-rápidas)
         - [Site](#site)
-        - [GitHub](#github)
         - [Google Drive](#google-drive)
+        - [GitHub](#github)
     - [Aviso Legal](#aviso-legal)
 
 <!-- /TOC -->
@@ -33,21 +33,32 @@
 
 ## Informações rápidas
 
-
 ### Site
-- URL: <https://padrao-hxl.etica.ai/>
+- **URL**: <https://padrao-hxl.etica.ai/>
+- Tecnologia: CMS Joomla!®
+
+O site [padrao-hxl.etica.ai](https://padrao-hxl.etica.ai/) é portal de
+informação com uma visão geral sobre o Padrão HXL em português e algumas
+adaptações extras no contexto da CPLP. Seu foco é ser o primeiro contato sobre
+o padrão, e pode não conter referência a tudo que está no nosso
+[Google Drive](#google-drive) ou [GitHub](#github).
+
+Note que o site <https://hxlstandard.org/> ainda é a referência oficial.
+
+### Google Drive
+- **URL**: <https://drive.google.com/drive/folders/1tLQT-km-j38q3jNvwSj0MsMwLF4sGRqq>
+
+O HXL-CPLP possúi uma pasta pública por padrão no Google Drive.
 
 <!--
-O site [padrao-hxl.etica.ai](https://padrao-hxl.etica.ai/) é o portal de
-divulgação que usamos para ser
+> Por discutir: talvez deveríamos criar uma URL curta para do Google Drive, não?
+> (fititnt, 2020-04-28 02:01 BRT)
 -->
 
 ### GitHub
-- URL: <https://hxl.etica.ai/>
 - URL: <https://github.com/HXL-CPLP>
+- URL: <https://hxl.etica.ai/> <sup>(redireciona para <https://github.com/HXL-CPLP>)</sup>
 
-### Google Drive
-- URL: <https://drive.google.com/drive/u/0/folders/1tLQT-km-j38q3jNvwSj0MsMwLF4sGRqq>
 
 ## Aviso Legal
 Tanto o site <https://padrao-hxl.etica.ai> como a organização no GitHub
